@@ -1,0 +1,37 @@
+.Car{
+    border : 1px solid #ccc;
+    width: 350px;
+    display: block;
+    margin:  10px auto;
+    padding: 15px;
+    box-shadow:  0 4px 5px 0 rgba(0, 0, 0, .14);
+    border-radius: 10px;
+    transition: width, border, box-shadow .3s;
+    background-color:rgb(255, 255, 255);
+    
+}
+.Car:hover{
+    border: 2px solid #aaa;
+    box-shadow:  0 4px 15px 0 rgba(0, 0, 0, .3);
+    width:355px;
+
+}
+.input {
+    outline: none;
+}
+
+.input.green {
+    border: 1px solid green;
+}
+.input.red {
+    border: 1px solid red;
+}
+.bold {
+    border: 2px solid rgb(6, 212, 6);
+    font-weight:bold;
+}
+.delete {
+   margin-left: 95%;
+    cursor: pointer; 
+    margin-top: 0;
+}
