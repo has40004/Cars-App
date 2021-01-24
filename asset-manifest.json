@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cars-App/static/css/main.f853094a.chunk.css",
+    "main.js": "/Cars-App/static/js/main.ed9a5fc6.chunk.js",
+    "main.js.map": "/Cars-App/static/js/main.ed9a5fc6.chunk.js.map",
+    "runtime-main.js": "/Cars-App/static/js/runtime-main.abd7c730.js",
+    "runtime-main.js.map": "/Cars-App/static/js/runtime-main.abd7c730.js.map",
+    "static/js/2.85ff7b5f.chunk.js": "/Cars-App/static/js/2.85ff7b5f.chunk.js",
+    "static/js/2.85ff7b5f.chunk.js.map": "/Cars-App/static/js/2.85ff7b5f.chunk.js.map",
+    "index.html": "/Cars-App/index.html",
+    "static/css/main.f853094a.chunk.css.map": "/Cars-App/static/css/main.f853094a.chunk.css.map",
+    "static/js/2.85ff7b5f.chunk.js.LICENSE.txt": "/Cars-App/static/js/2.85ff7b5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abd7c730.js",
+    "static/js/2.85ff7b5f.chunk.js",
+    "static/css/main.f853094a.chunk.css",
+    "static/js/main.ed9a5fc6.chunk.js"
+  ]
+}
